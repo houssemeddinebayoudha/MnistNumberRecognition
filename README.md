@@ -3,4 +3,4 @@
   number recognition with a FASTAI learner.
   
 # Code :
-  check the MnistNumRecognition.ipynb file.
+  Check the MnistNumRecognition.ipynb file.
