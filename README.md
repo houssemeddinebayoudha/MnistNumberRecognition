@@ -1,3 +1,3 @@
 # Description :
- ### Using MNIST data set to make a handwritten
- ### number recognition with a FASTAI learner.
+  Using MNIST data set to make a handwritten
+  number recognition with a FASTAI learner.
